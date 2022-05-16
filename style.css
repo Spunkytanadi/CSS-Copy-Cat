@@ -1,0 +1,30 @@
+* {
+    background-color: rgb(120, 121, 181);
+}
+
+body {
+    text-align: center;
+    display: block;
+    box-sizing: inherit;
+}
+
+h5 {
+    font-style: italic red;
+}
+
+h1, h2, h3 {
+    font-family: sans-serif
+}
+
+p {
+    text-decoration: double;
+    font-family: cursive;
+}
+
+header {
+    background-color: rebeccapurple;
+}
+
+:root {
+    background-color: darkolivegreen;
+}
